@@ -1,1 +1,1 @@
-# android_device_realme_tensura_recovery
+# Device config for TWRP Realme 10 ( Tensura )
